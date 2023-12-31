@@ -8,7 +8,6 @@ import Login from "./Comp/login/Login.jsx";
 import Register from "./Comp/register/Register.jsx";
 import RegisterRbs from "./Comp/register-rbs/RegisterRbs.jsx";
 import "bootstrap/dist/css/bootstrap.min.css";
-
 const router = createBrowserRouter([
   {
     path: "/",
